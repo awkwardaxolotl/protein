@@ -1,0 +1,9 @@
+{
+  "name": "protein",
+  "version": "0.0.0",
+  "description": "Logic container for web apps which encourages maintanability, readability, and rapid development",
+  "main": "index.js",
+  "repository": "https://github.com/awkwardaxolotl/protein",
+  "author": "kevin.sullivan@axolotl.industries",
+  "license": "MIT"
+}
